@@ -1,6 +1,6 @@
 {
     "name": "Ajo Ahoy!",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Replaces 'cloves of garlic' with 'bulbs of garlic'",
     "manifest_version": 2,
     "content_scripts": [
